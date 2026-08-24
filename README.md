@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **Swap611/Swap611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I'm Swap611 
+I'm currently learning how to use GitHub properly.
